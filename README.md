@@ -8,12 +8,9 @@ Node.js
 
 ## Instructions
 
-`touch package.json && open package.json`
+`cd` into your directory
 
-`{
-	"name": "starter-kit"
-	"version": "0.0.1"
-}`
+`open package.json`
 
 ### Install dependencies
 
