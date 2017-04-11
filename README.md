@@ -17,7 +17,7 @@ Node.js
 
 ### Install dependencies
 
-run: `npm install autoprefixer browser-sync browserify cssnano jshint minifyify node-sass parallelshell postcss postcss-cli watch --save-dev`
+run: `npm install`
 
 ### Run one of the following build scripts.
 
